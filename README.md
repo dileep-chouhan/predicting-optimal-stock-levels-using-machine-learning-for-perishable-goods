@@ -32,7 +32,7 @@ This project aims to optimize inventory management for perishable goods by devel
    Ensure that your data is properly formatted and located in the expected directory (specified within the code).
 
 
-## Example Output
+## Example Output....
 
 The script will print key analysis results to the console, including model performance metrics (e.g., accuracy, precision, recall).  Additionally, the project generates several visualization files, including:
 
