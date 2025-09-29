@@ -15,7 +15,7 @@ This project aims to optimize inventory management for perishable goods by devel
 * (Add any other libraries used here)
 
 
-## How to Run
+## How to Run....
 
 1. **Install Dependencies:**  Navigate to the project's root directory in your terminal and install the required Python libraries using pip:
 
