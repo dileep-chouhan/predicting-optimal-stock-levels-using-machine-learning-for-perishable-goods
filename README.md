@@ -4,7 +4,7 @@
 
 This project aims to optimize inventory management for perishable goods by developing a machine learning model that predicts optimal stock levels.  The analysis leverages historical sales data, potentially incorporating external factors such as weather patterns or promotional events, to minimize waste due to spoilage and maximize profitability by avoiding stockouts.  The model's performance is evaluated using appropriate metrics, and the results are visualized to provide actionable insights for inventory control.
 
-## Technologies Used
+## Technologies Used....
 
 * Python 3.x
 * Pandas
